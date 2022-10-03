@@ -1,4 +1,5 @@
 <template>
+  <div class="p-3 bg-slate-500">hi</div>
   <BraveTabs
     ref="bravetabref"
     class="overflow-hidden"
